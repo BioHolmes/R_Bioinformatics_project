@@ -1,1 +1,1 @@
-# R_Bioinformatics_projects
+# R_Bioinformatic_projects
